@@ -1,0 +1,127 @@
+intent,response
+menu_inquiry,Our menu includes a variety of dishes such as Pizza, Pasta, Salads, Burgers, and Desserts.
+menu_inquiry,We offer a wide range of options including Vegan, Gluten-Free, and Vegetarian dishes.
+menu_inquiry,You can choose from our delicious starters, main courses, and desserts.
+menu_inquiry,Our chef's special today includes Grilled Salmon and Creamy Risotto.
+menu_inquiry,We have a special Kids Menu that includes mini burgers, pasta, and more.
+
+hours_inquiry,We are open from 10 AM to 10 PM every day, including weekends.
+hours_inquiry,Our operating hours are 10 AM to 10 PM, Monday through Sunday.
+hours_inquiry,We serve breakfast from 7 AM to 11 AM, and the regular menu from 11 AM to 10 PM.
+hours_inquiry,The restaurant is open from 10 AM to 10 PM, with happy hours from 4 PM to 6 PM.
+hours_inquiry,You can visit us any day between 10 AM and 10 PM.
+
+reservation,To make a reservation, please call us at 123-456-7890 or book online through our website.
+reservation,You can reserve a table by visiting our website or calling 123-456-7890.
+reservation,We recommend making a reservation in advance to secure your table.
+reservation,Table reservations can be made online or by calling our reservation line at 123-456-7890.
+reservation,Please contact our reservation desk at 123-456-7890 to book a table.
+
+location_inquiry,We are located at 123 Main Street, Cityname, near the central park.
+location_inquiry,You can find us at 123 Main Street, Cityname, across from the shopping mall.
+location_inquiry,Our address is 123 Main Street, Cityname, right next to the subway station.
+location_inquiry,Visit us at 123 Main Street, Cityname, in the downtown area.
+location_inquiry,Our restaurant is located at 123 Main Street, Cityname, in the heart of the city.
+
+bill_inquiry,For billing inquiries, please visit the counter or contact our support at billing@restaurant.com.
+bill_inquiry,You can check your bill at the counter or ask your server for assistance.
+bill_inquiry,If you have questions about your bill, please speak with the manager at the counter.
+bill_inquiry,For any billing issues, kindly reach out to our support team at billing@restaurant.com.
+bill_inquiry,Please visit the billing counter for any queries related to your bill.
+
+payment_inquiry,We accept cash, credit cards, debit cards, and mobile payments like Apple Pay and Google Pay.
+payment_inquiry,You can pay using cash, major credit/debit cards, and mobile payment options.
+payment_inquiry,Our restaurant supports payments via cash, cards, and mobile wallets.
+payment_inquiry,We accept multiple payment methods, including credit/debit cards and mobile payments.
+payment_inquiry,You can pay with cash, credit/debit cards, or through mobile payment apps.
+
+takeaway_inquiry,Yes, you can order for takeaway, and we'll have your order ready in 20 minutes.
+takeaway_inquiry,We offer takeaway services. Please call ahead to place your order.
+takeaway_inquiry,You can place an order for takeaway and pick it up at your convenience.
+takeaway_inquiry,Takeaway orders can be made online or by calling us directly.
+takeaway_inquiry,We provide takeaway options for all our menu items.
+
+delivery_inquiry,We offer delivery within a 10-mile radius. Delivery charges may apply.
+delivery_inquiry,You can order for delivery if you are within a 10-mile radius of our restaurant.
+delivery_inquiry,Delivery services are available for orders within 10 miles. Please order online or call us.
+delivery_inquiry,We deliver to locations within a 10-mile radius. Delivery times vary based on location.
+delivery_inquiry,Our delivery service covers a 10-mile area around the restaurant.
+
+policy_inquiry,Yes, we have a pet-friendly outdoor seating area where you can enjoy your meal with your pet.
+policy_inquiry,We allow pets in our outdoor seating area. Please ensure they are on a leash.
+policy_inquiry,Pets are welcome in the outdoor seating area. We also provide water bowls for them.
+policy_inquiry,Our outdoor area is pet-friendly, but pets are not allowed inside the restaurant.
+policy_inquiry,Feel free to bring your pet to our outdoor seating area. We are a pet-friendly restaurant.
+
+facility_inquiry,We offer free wifi for all our guests. Please ask your server for the password.
+facility_inquiry,Free wifi is available in our restaurant. You can connect easily by asking for the password.
+facility_inquiry,We provide complimentary wifi and parking for all our customers.
+facility_inquiry,Our restaurant offers free wifi, ample parking, and wheelchair accessibility.
+facility_inquiry,We have free wifi, parking, and a kid's play area available for your convenience.
+
+special_request_inquiry,We can accommodate special dietary requests such as gluten-free, vegan, and nut-free meals.
+special_request_inquiry,Please inform your server of any dietary restrictions, and we'll do our best to accommodate.
+special_request_inquiry,We are happy to customize dishes to meet your dietary needs. Just let us know.
+special_request_inquiry,Our kitchen can prepare meals according to your dietary preferences. Please ask your server.
+special_request_inquiry,If you have any food allergies or dietary restrictions, please notify us, and we'll cater to your needs.
+
+catering_inquiry,We offer catering services for events, with customizable menu options to suit your needs.
+catering_inquiry,Our catering service includes a variety of dishes to choose from. Please contact us for details.
+catering_inquiry,You can arrange catering for your event by contacting our catering department.
+catering_inquiry,We provide catering services for parties, corporate events, and special occasions.
+catering_inquiry,For catering inquiries, please reach out to our catering manager at catering@restaurant.com.
+
+event_inquiry,We host private events and parties. Please contact us to discuss your requirements.
+event_inquiry,Our restaurant offers event hosting services with customizable packages.
+event_inquiry,You can book our venue for private events, and we'll tailor the experience to your needs.
+event_inquiry,We host a variety of events, from corporate gatherings to birthday parties. Contact us for more details.
+event_inquiry,For event hosting, please get in touch with our event coordinator at events@restaurant.com.
+
+feedback_inquiry,We value your feedback. Please share your experience with us at feedback@restaurant.com.
+feedback_inquiry,You can provide feedback by filling out our online form or emailing us directly.
+feedback_inquiry,We would love to hear your thoughts on your dining experience. Please send us your feedback.
+feedback_inquiry,Your feedback helps us improve. Please share your comments with us at feedback@restaurant.com.
+feedback_inquiry,Feel free to leave feedback on our website or through our social media channels.
+
+loyalty_program_inquiry,We have a loyalty program where you can earn points with every purchase. Join today!
+loyalty_program_inquiry,Sign up for our loyalty program and start earning rewards on your visits.
+loyalty_program_inquiry,Our loyalty members enjoy exclusive discounts and offers. Ask us how to join.
+loyalty_program_inquiry,You can join our loyalty program and receive points for every purchase, redeemable for discounts.
+loyalty_program_inquiry,Our loyalty program offers benefits like discounts and special offers for regular customers.
+
+promotion_inquiry,Check out our latest promotions on our website or ask your server for details.
+promotion_inquiry,We have ongoing promotions and discounts. Visit our website for more information.
+promotion_inquiry,You can find out about our current promotions by asking at the counter or checking our social media.
+promotion_inquiry,We offer seasonal promotions and special deals. Stay updated by following us on social media.
+promotion_inquiry,Our promotions change regularly. Please ask your server about today's specials.
+
+covid_policy_inquiry,We follow all COVID-19 safety guidelines, including regular sanitization and social distancing.
+covid_policy_inquiry,Our restaurant adheres to strict COVID-19 protocols to ensure the safety of our guests and staff.
+covid_policy_inquiry,We have implemented contactless payment and dining options as part of our COVID-19 precautions.
+covid_policy_inquiry,For your safety, we enforce mask-wearing and temperature checks upon entry.
+covid_policy_inquiry,We offer outdoor seating and contactless delivery as part of our COVID-19 safety measures.
+
+alcohol_policy_inquiry,We serve a variety of alcoholic beverages. Please note that you must be 21 or older to purchase.
+alcohol_policy_inquiry,Our bar offers a selection of wines, beers, and cocktails for guests aged 21 and above.
+alcohol_policy_inquiry,Alcoholic beverages are available for dine-in only. Please drink responsibly.
+alcohol_policy_inquiry,We have a wide range of alcoholic drinks, but ID is required for purchase.
+alcohol_policy_inquiry,Please be aware that alcohol sales are limited to those who are 21 and over.
+
+kids_policy_inquiry,We welcome families and have a special menu for kids under 12.
+kids_policy_inquiry,Our restaurant is family-friendly, with a play area for kids and a dedicated kids' menu.
+kids_policy_inquiry,Kids under 12 can enjoy meals from our kids' menu at discounted prices.
+kids_policy_inquiry,We offer high chairs and a kids' menu to ensure your children have a great dining experience.
+kids_policy_inquiry,Children are welcome, and we have activities and meals designed just for them.
+
+parking_inquiry,We have free parking available for all our guests right next to the restaurant.
+parking_inquiry,Parking is complimentary in the adjacent lot. Valet service is also available.
+parking_inquiry,You can park your car in our designated parking area, which is free for customers.
+parking_inquiry,Our restaurant offers ample parking space, including spots for disabled guests.
+parking_inquiry,Free parking is available in our on-site parking lot. Valet service is also provided.
+
+dietary_restriction_inquiry,We offer various gluten-free, vegan, and vegetarian options on our menu.
+dietary_restriction_inquiry,Please let us know if you have any dietary restrictions, and we'll tailor your meal accordingly.
+dietary_restriction_inquiry,Our menu includes dishes that cater to gluten-free, vegan, and other dietary needs.
+dietary_restriction_inquiry,We are happy to modify our dishes to suit your dietary restrictions.
+dietary_restriction_inquiry,Feel free to inform us of any dietary restrictions, and we'll make sure to accommodate them.
+
